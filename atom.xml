@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>业余文艺产品经理之路</title>
+  
+  <subtitle>愿我的只言片语，为你的成长带来帮助！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://volcano-s.github.io/"/>
+  <updated>2018-08-22T17:26:59.265Z</updated>
+  <id>https://volcano-s.github.io/</id>
+  
+  <author>
+    <name>Wendy Hu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何编辑Hexo的blog文章</title>
+    <link href="https://volcano-s.github.io/2018/08/23/%E5%A6%82%E4%BD%95%E7%BC%96%E5%86%99blog%E6%96%87%E7%AB%A0/"/>
+    <id>https://volcano-s.github.io/2018/08/23/如何编写blog文章/</id>
+    <published>2018-08-22T16:16:57.000Z</published>
+    <updated>2018-08-22T17:26:59.265Z</updated>
+    
+    <content type="html"><![CDATA[<Excerpt in index | 首页摘要><p>欢迎使用 Hexo，本文档将帮助您快速上手。如果您在使用过程中遇到问题，请查看 问题解答 中的解答，或者在 GitHub、Google Group 上提问。<a href="https://hexo.io/zh-cn/docs/">中文文档参考</a></p><a id="more"></a><The rest of contents | 余下全文><h3 id="1、创建一篇新文章"><a href="#1、创建一篇新文章" class="headerlink" title="1、创建一篇新文章"></a>1、创建一篇新文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>更多请参考: <a href="https://hexo.io/zh-cn/docs/writing.html">写作</a></p><h3 id="2、-启动服务"><a href="#2、-启动服务" class="headerlink" title="2、 启动服务"></a>2、 启动服务</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>更多请参考: <a href="https://hexo.io/zh-cn/docs/server.html">服务器</a></p><h3 id="3、-生成静态文件"><a href="#3、-生成静态文件" class="headerlink" title="3、 生成静态文件"></a>3、 生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>更多请参考: <a href="https://hexo.io/zh-cn/docs/generating.html">生成文件</a></p><h3 id="4、-部署到服务器"><a href="#4、-部署到服务器" class="headerlink" title="4、 部署到服务器"></a>4、 部署到服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>更多请参考: <a href="https://hexo.io/zh-cn/docs/deployment.html">部署</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;Excerpt in index | 首页摘要&gt;
+
+&lt;p&gt;欢迎使用 Hexo，本文档将帮助您快速上手。如果您在使用过程中遇到问题，请查看 问题解答 中的解答，或者在 GitHub、Google Group 上提问。&lt;a href=&quot;https://hexo.io/zh-cn/docs/&quot;&gt;中文文档参考&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="技巧" scheme="https://volcano-s.github.io/categories/%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="hexo写作" scheme="https://volcano-s.github.io/tags/hexo%E5%86%99%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的博客</title>
+    <link href="https://volcano-s.github.io/2018/08/22/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://volcano-s.github.io/2018/08/22/我的博客/</id>
+    <published>2018-08-21T16:16:57.000Z</published>
+    <updated>2018-08-22T17:10:39.714Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong> 我的博客：</strong> <Excerpt in index | 首页摘要></p><p>红黑树</p><a id="more"></a><The rest of contents | 余下全文><p>我的博客今天创建，我的博客今天创建。，我的博客今天创建。，我的博客今天创建。，，我的博客今天创建。，我的博客今天创建。，我的博客今天创建。我的博客今天创建。。我的博客今天创建，我的博客今天创建。，我的博客今天创建。，我的博客今天创建。，，我的博客今天创建。，我的博客今天创建。，我的博客今天创建。我的博客今天创建。。</p><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>吴带当风水电费，范德萨水电费给他，我的博客今天创建，我的博客今天创建。，我的博客今天创建。，我的博客今天创建。，，我的博客今天创建。，我的博客今天创建。，我的博客今天创建。我的博客今天创建。。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt; 我的博客：&lt;/strong&gt; &lt;Excerpt in index | 首页摘要&gt;&lt;/p&gt;
+&lt;p&gt;红黑树&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="博客" scheme="https://volcano-s.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="volcano" scheme="https://volcano-s.github.io/tags/volcano/"/>
+    
+  </entry>
+  
+</feed>
